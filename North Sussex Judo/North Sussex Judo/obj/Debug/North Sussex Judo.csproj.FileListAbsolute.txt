@@ -1,0 +1,19 @@
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\bin\Debug\North Sussex Judo.exe.config
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\bin\Debug\North Sussex Judo.exe
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\bin\Debug\North Sussex Judo.pdb
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\obj\Debug\North Sussex Judo.csprojResolveAssemblyReference.cache
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\obj\Debug\North_Sussex_Judo.Form1.resources
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\obj\Debug\North_Sussex_Judo.Properties.Resources.resources
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\obj\Debug\North Sussex Judo.csproj.GenerateResource.Cache
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\obj\Debug\North Sussex Judo.exe
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\obj\Debug\North Sussex Judo.pdb
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\obj\Debug\North_Sussex_Judo.Form2.resources
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\obj\Debug\North_Sussex_Judo.Form3.resources
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\obj\Debug\North_Sussex_Judo.Form6.resources
+D:\ANC\programing\Programming_Pratheeshan_02001426\North Sussex Judo\North Sussex Judo\bin\Debug\North Sussex Judo.exe.config
+D:\ANC\programing\Programming_Pratheeshan_02001426\North Sussex Judo\North Sussex Judo\obj\Debug\North Sussex Judo.exe
+D:\ANC\programing\Programming_Pratheeshan_02001426\North Sussex Judo\North Sussex Judo\obj\Debug\North Sussex Judo.pdb
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\bin\Debug\North Sussex Judo.exe.manifest
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\bin\Debug\North Sussex Judo.application
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\obj\Debug\North Sussex Judo.exe.manifest
+D:\ANC\programing\North Sussex Judo\North Sussex Judo\obj\Debug\North Sussex Judo.application
